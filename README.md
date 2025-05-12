@@ -9,7 +9,7 @@
 <p align="left">I'm from India<br><br>- 🔭 I’m currently working complex projects and Cloud based Architectures<br>- 🌱 I’m currently learning Spring boot and React.js.<br>- 💬 Ask me about Java / Javascript / Cloud / devops.<br>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
 
 ###
-<div align="center">
+<div align="left">
 # 🛠 Tech Stack
 
 ### 🧠 Backend  
