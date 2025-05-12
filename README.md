@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="40"/>
 
 </div>
+---
 
 ### 🧰 Tools & Languages
 <div align="left">
@@ -116,25 +117,31 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.hackerrank.com/profile/dhruvdankhara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="34" alt="hackerrank logo"  />
-  </a>
-  <a href="https://bento.me/dhruvdankhara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="54" height="34" alt="linktree logo"  />
-  </a>
-  <a href="https://dev.to/dhruvdankhara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="54" height="34" alt="devto logo"  />
-  </a>
-  <a href="https://medium.com/@dhruvdankhara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="54" height="34" alt="medium logo"  />
-  </a>
+### 🌐 Connect with Me
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; width: fit-content; background-color: #000; color: white;">
+  <h3>Follow me on</h3>
+  <div>
+    <a href="https://leetcode.com/your_username/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-0072F5?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+    </a>
+    <a href="https://www.hackerrank.com/your_username" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40"/>
+    </a>
+    <a href="https://twitter.com/your_username" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your_username/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    </a>
+  </div>
 </div>
+
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvdankhara.dhruvdankhara&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ujavalsavaliya.ujavalsavaliya&"  />
 </div>
 
 ###
