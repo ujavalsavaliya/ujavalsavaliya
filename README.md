@@ -9,6 +9,7 @@
 <p align="left">I'm from India<br><br>- 🔭 I’m currently working complex projects and Cloud based Architectures<br>- 🌱 I’m currently learning Spring boot and React.js.<br>- 💬 Ask me about Java / Javascript / Cloud / devops.<br>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
 
 ###
+<div align="center">
 # 🛠 Tech Stack
 
 ### 🧠 Backend  
@@ -36,10 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
-
-# ☁️ Cloud, DevOps & Tools
-
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud   
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
@@ -53,7 +51,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
+</div>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
