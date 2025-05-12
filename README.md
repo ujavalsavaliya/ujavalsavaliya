@@ -12,8 +12,8 @@
 
 # 🛠 Tech Stack
 
-<div align="center">
 ### 🧠 Backend
+<div align="left">
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/>
@@ -26,8 +26,8 @@
 
 ---
 
-<div align="center">
 ### 🎨 Frontend
+<div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
@@ -43,8 +43,8 @@
 
 ---
 
-<div align="center">
 ### 🗄️ Database
+<div align="left">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
@@ -54,16 +54,16 @@
 
 ---
 
-<div align="center">
 ### ☁️ Cloud 
+<div align="left">
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="40"/>
 
 </div>
 
-<div align="center">
 ### 🧰 Tools & Languages
+<div align="left">
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
