@@ -107,35 +107,22 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dhruv-dankhara/" target="_blank">
+  <a href="https://www.linkedin.com/in/ujaval-savaliya-b90056327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/dhruvvdankhara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  <a href="https://leetcode.com/u/savaliyaujaval07/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="LeetCode logo"/>
+    </a>
+   <a href="https://twitter.com/ujavalsavaliya" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"/>
+    </a>
+  <a href="https://www.hackerrank.com/profile/Ujaval_savaliya" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank logo"/>
+    </a>
 </div>
 
 ###
 
-### 🌐 Connect with Me
-
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; width: fit-content; background-color: #000; color: white;">
-  <h3>Follow me on</h3>
-  <div>
-    <a href="https://leetcode.com/your_username/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-0072F5?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
-    </a>
-    <a href="https://www.hackerrank.com/your_username" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40"/>
-    </a>
-    <a href="https://twitter.com/your_username" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
-    </a>
-    <a href="https://www.linkedin.com/in/your_username/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-    </a>
-  </div>
-</div>
 
 
 ###
