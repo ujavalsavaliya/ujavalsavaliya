@@ -86,9 +86,14 @@
 ### 💻 LeetCode Progress
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20-50%20Days-00B140?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/LeetCode%20-100%20Days-0072F5?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+  <a href="https://leetcode.com/medal/?showImg=0&id=6255751&isLevel=false" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode%20-50%20Days-00B140?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=6796523&isLevel=false" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode%20-100%20Days-0072F5?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+  </a>
 </div>
+
 
 ---
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujavalsavaliya&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
