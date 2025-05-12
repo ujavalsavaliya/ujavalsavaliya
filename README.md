@@ -110,8 +110,8 @@
   <a href="https://www.linkedin.com/in/ujaval-savaliya-b90056327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/savaliyaujaval07/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="LeetCode logo"/>
+  <a href="https://leetcode.com/your_username/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/LeetCode_logo_2021.svg" width="52" height="40" alt="LeetCode logo"/>
     </a>
    <a href="https://twitter.com/ujavalsavaliya" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"/>
