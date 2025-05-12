@@ -81,6 +81,18 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujavalsavaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  ---
+  ### 💻 LeetCode Progress
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; width: fit-content; background-color: #f9f9f9;">
+  <h3>LeetCode Daily Streak</h3>
+  <div>
+    <img src="https://img.shields.io/badge/50%20Days-00B140?style=for-the-badge" height="40"/>
+    <img src="https://img.shields.io/badge/100%20Days-0072F5?style=for-the-badge" height="40"/>
+  </div>
+</div>
+---
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujavalsavaliya&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
