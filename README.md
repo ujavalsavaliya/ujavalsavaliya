@@ -6,9 +6,7 @@
 
 ###
 
-###
-
-<p align="left">I'm from India<br><br>- 🔭 I’m currently working complex projects and Cloud based Architectures<br>- 🌱 I’m currently learning Spring boot and React.js.<br>- 💬 Ask me about Java / Javascript / Cloud / devops.<br>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
+<p align="left">I'm from India<br><br><br>- 🔭 I’m currently working complex projects and Cloud based Architectures<br><br>- 🌱 I’m currently learning Spring boot and React.js.<br><br>- 💬 Ask me about Java / Javascript / Cloud / devops.<br><br>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
 
 ---
 
@@ -56,9 +54,7 @@
 
 ---
 
-# ☁️ Cloud, DevOps & Tools
-
-### ☁️ Cloud & DevOps
+### ☁️ Cloud 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
