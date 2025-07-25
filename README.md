@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Docker-59666C?style=for-the-badge&logo=Docker&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Linux-59666C?style=for-the-badge&logo=Linux&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Kubernetes-59666C?style=for-the-badge&logo=Kubernetes&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Jenkins-59666C?style=for-the-badge&logo=Jenkins&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Jenkins-59666C?style=for-the-badge&logo=Jenkins&logoColor=61DAFB" height="40"/>
   <img src="https://img.shields.io/badge/Ansible-59666C?style=for-the-badge&logo=Ansible&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Terraform-59666C?style=for-the-badge&logo=Terraform&logoColor=white" height="40"/>
 </div>
