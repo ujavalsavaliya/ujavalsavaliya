@@ -53,13 +53,23 @@
 </div>
 
 ---
-
+### ♾️ Devops Tool 
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" height="40"/>
+</div>
+---
 ### ☁️ Cloud 
 <div align="left">
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Aws-0B0D0E?style=for-the-badge&logo=Aws&logoColor=white" height="40"/>
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="40"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40"/>
 
 </div>
 ---
@@ -116,6 +126,9 @@
     </a>
   <a href="https://www.hackerrank.com/profile/Ujaval_savaliya" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank logo"/>
+    </a>
+  <a href="https://leetcode.com/u/savaliyaujaval07/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" width="52" height="40" alt="Leetcode logo"/>
     </a>
 </div>
 
