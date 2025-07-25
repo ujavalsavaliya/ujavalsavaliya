@@ -54,22 +54,22 @@
 
 ---
 ### ♾️ Devops Tool 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="40"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" height="40"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" height="40"/>
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="50"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" height="50"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" height="50"/>
 </div>
 ---
 ### ☁️ Cloud 
 <div align="left">
 
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="50"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="50"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="40"/>
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="40"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="50"/>
 
 </div>
 ---
