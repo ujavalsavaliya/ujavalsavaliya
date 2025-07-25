@@ -55,6 +55,7 @@
 ---
 ### ♾️ Devops Tool 
 <div align="left">
+  <img src="https://img.shields.io/badge/Docker-59666C?style=for-the-badge&logo=Docker&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="50"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="50"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" height="50"/>
@@ -62,6 +63,7 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" height="50"/>
 </div>
 ---
+
 ### ☁️ Cloud 
 <div align="left">
 
